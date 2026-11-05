@@ -7,8 +7,14 @@
 #   url      - link to that year's website or archive (optional)
 #   note     - one-line extra detail, e.g. "Joint meeting with …" (optional)
 
-- year: "TBC"
-  location: "Example city, Country"
-  host: "Example University"
-  url: ""
-  note: "Placeholder entry — replace with a real past meeting."
+- year: "2025"
+  location: "Edinburgh"
+  host: "ASAB winter conference"
+  url: "https://asabwinter.github.io//2025/"
+  note: "We organised the ASAB Winter conference with a Sensory Ecology theme"
+
+- year: "2024"
+  location: "Penryn"
+  host: "University of Exeter"
+  url: "https://www.visual-ecology.com/"
+  note: ""
