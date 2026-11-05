@@ -1,0 +1,28 @@
+# Organisers, grouped into committees. Each group gets its own heading on the
+# Organisers page; delete or rename groups as needed.
+#   name        - required
+#   role        - e.g. "Chair", "Treasurer" (optional)
+#   affiliation - institution (optional)
+#   photo       - e.g. /assets/images/people/firstname-lastname.jpg (optional)
+#   url         - personal / lab page (optional)
+
+- group: "Organising committee"
+  people:
+    - name: "Name TBC"
+      role: "Chair"
+      affiliation: "Institution TBC"
+      photo: ""
+      url: ""
+    - name: "Name TBC"
+      role: ""
+      affiliation: "Institution TBC"
+      photo: ""
+      url: ""
+
+- group: "Scientific committee"
+  people:
+    - name: "Name TBC"
+      role: ""
+      affiliation: "Institution TBC"
+      photo: ""
+      url: ""

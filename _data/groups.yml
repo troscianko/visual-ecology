@@ -1,0 +1,16 @@
+# Key groups, societies and networks behind the series — shown as cards on the homepage.
+#   name        - required
+#   url         - their website (optional; makes the card a link)
+#   logo        - e.g. /assets/logos/example-group.png (optional)
+#   description - one or two sentences (Markdown allowed, but no links — the card
+#                 itself already links to url)
+
+- name: "Example research group"
+  url: ""
+  logo: ""
+  description: "Placeholder — a sentence about who this group is and their role in the series."
+
+- name: "Example society or network"
+  url: ""
+  logo: ""
+  description: "Placeholder — a sentence about who this group is and their role in the series."

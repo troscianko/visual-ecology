@@ -1,0 +1,46 @@
+# The current (upcoming) conference. This is the first file to edit when rolling
+# the site over to a new year — the header, homepage, footer, Register and Venue
+# pages all read from here. Anything marked TBC is a placeholder.
+
+name: "Visual Ecology 2027"
+year: 2027
+logo: /assets/logos/visual-ecology-2027.png   # leave blank to show the name as text instead
+dates: "TBC 2027"                # free text, e.g. "6–9 July 2027"
+location: "TBC"                  # short form for the homepage/footer, e.g. "Falmouth, UK"
+email: "TBC"                     # general enquiries address, shown in the footer
+
+venue:
+  name: "TBC"
+  address: "TBC"
+  map_url: ""                    # link to OpenStreetMap / Google Maps; leave blank to hide
+
+# status: "soon" (not open yet), "open" or "closed" — controls the Register button.
+registration:
+  status: "soon"
+  url: ""                        # external booking form (e.g. university online store)
+  opens: "TBC"
+
+# Shown on the homepage and Register page, in this order.
+key_dates:
+  - label: "Registration opens"
+    date: "TBC"
+  - label: "Abstract submission deadline"
+    date: "TBC"
+  - label: "Early-bird registration deadline"
+    date: "TBC"
+  - label: "Conference"
+    date: "TBC"
+
+# Shown as a table on the Register page. Add or remove rows freely.
+fees:
+  - category: "Student / early career"
+    early: "TBC"
+    standard: "TBC"
+  - category: "Full"
+    early: "TBC"
+    standard: "TBC"
+
+# Who to contact about anything covered by the code of conduct.
+conduct_contact:
+  name: "TBC"
+  email: "TBC"

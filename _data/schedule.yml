@@ -1,0 +1,43 @@
+# The conference programme, one entry per day, shown on the Schedule page.
+#   day      - heading for that day, e.g. "Monday 5 July"
+#   sessions - list of items, in time order:
+#       time     - e.g. "09:00–10:00"
+#       title    - required
+#       type     - one of: talk, keynote, break, social, poster, admin (optional;
+#                  changes the colour of the row)
+#       speaker  - optional
+#       location - room / building (optional)
+#       details  - extra notes (Markdown allowed, optional)
+
+- day: "Day 1 — date TBC"
+  sessions:
+    - time: "09:00"
+      title: "Registration and coffee"
+      type: break
+    - time: "09:30"
+      title: "Welcome"
+      type: admin
+    - time: "10:00"
+      title: "Keynote — speaker TBC"
+      type: keynote
+    - time: "11:00"
+      title: "Talk session 1"
+      type: talk
+    - time: "12:30"
+      title: "Lunch"
+      type: break
+    - time: "18:00"
+      title: "Poster session and drinks reception"
+      type: poster
+
+- day: "Day 2 — date TBC"
+  sessions:
+    - time: "09:30"
+      title: "Keynote — speaker TBC"
+      type: keynote
+    - time: "10:30"
+      title: "Talk session 2"
+      type: talk
+    - time: "19:00"
+      title: "Conference dinner"
+      type: social
