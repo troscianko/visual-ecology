@@ -5,23 +5,22 @@ excerpt: "Our commitment to a welcoming, safe and inclusive conference."
 
 {% assign contact = site.data.conference.conduct_contact %}
 
-> TODO: This is a starting-point draft — review it with the organising committee (and the
-> host institution's own policies) before publishing.
-
-{{ site.data.conference.name }} aims to be a welcoming, safe and productive meeting for
-everyone, regardless of career stage, gender, gender identity and expression, sexual
-orientation, disability, physical appearance, ethnicity, nationality, religion, age or any
-other personal characteristic. This code of conduct applies to all attendees, speakers,
-organisers, volunteers and sponsors, at every conference event — talks, poster sessions,
-social events, field trips and online spaces.
+> {{ site.data.conference.name }} aims to be a welcoming, safe and productive meeting for
+> everyone, regardless of career stage, gender, gender identity and expression, sexual
+> orientation, disability, physical appearance, ethnicity, nationality, religion, age or any
+> other personal characteristic. This code of conduct applies to all attendees, speakers,
+> organisers, volunteers and sponsors, at every conference event — talks, poster sessions,
+> social events, field trips and online spaces.
 
 ## Expected behaviour
 
 - Be respectful and considerate, in person and online.
 - Engage constructively with ideas and give credit to others' work.
 - Respect people's boundaries, and requests not to be photographed or recorded.
-- Ask before photographing or sharing someone's unpublished slides or posters.
 - Look out for one another, and let the organisers know if someone needs help.
+- Do not photograph or record slides or posters that are labelled with a 'no social media' logo, and ask for permission if unsure:
+
+![/assests/logos/no-social-media.png]
 
 ## Unacceptable behaviour
 
