@@ -8,19 +8,11 @@
 
 - group: "Organising committee"
   people:
-    - name: "Name TBC"
-      role: "Chair"
-      affiliation: "Institution TBC"
-      photo: ""
-      url: ""
-    - name: "Name TBC"
-      role: ""
-      affiliation: "Institution TBC"
-      photo: ""
-      url: ""
-
-- group: "Scientific committee"
-  people:
+    - name: "Christian Drerup"
+      role: "Main organiser"
+      affiliation: "University of Oxford"
+      photo: "/assets/Oxford_images/Christian_picture.jpg"
+      url: "https://christiandrerup.com/"
     - name: "Name TBC"
       role: ""
       affiliation: "Institution TBC"

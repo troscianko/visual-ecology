@@ -5,14 +5,14 @@
 name: "Visual Ecology 2027"
 year: 2027
 logo: /assets/logos/visual-ecology-2027.png   # leave blank to show the name as text instead
-dates: "July 7th & 8th 2027"                # free text, e.g. "6–9 July 2027"
+dates: "7/8th July 2027"                # free text, e.g. "6–9 July 2027"
 location: "Magdalen College, University of Oxford"                  # short form for the homepage/footer, e.g. "Falmouth, UK"
 email: "christian.drerup [at] magd.ox.ac.uk"                     # general enquiries address, shown in the footer
 
 venue:
-  name: "TBC"
-  address: "TBC"
-  map_url: ""                    # link to OpenStreetMap / Google Maps; leave blank to hide
+  name: "Grove Auditorium, Magdalen College"
+  address: "Longwall Street, Oxford, OX1 4AU"
+  map_url: "https://maps.app.goo.gl/Z17FrtM3FohP59VMA"                    # link to OpenStreetMap / Google Maps; leave blank to hide
 
 # status: "soon" (not open yet), "open" or "closed" — controls the Register button.
 registration:
