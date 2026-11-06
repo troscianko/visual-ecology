@@ -7,10 +7,10 @@
 
 - name: "Exeter Visual Ecology"
   url: "https://www.visual-ecology.com/"
-  logo: "/assests/logos/EVE-logo.png"
+  logo: "/assets/logos/EVE-logo-400.png"
   description: "We are the joint labs of Jolyon Troscianko, Laura Kelley and Martin Stevens, based at the Univerity of Exeter's Penryn Campus in Cornwall"
 
 - name: "CamoLab"
   url: "https://camolab.com/"
-  logo: "/assests/logos/camolab-logo.png"
+  logo: "/assets/logos/camolab-logo.png"
   description: "CamoLab is a collaborative group of camouflage and visual ecology researchers at the Univeristy of Bristol, with close links to the Bristol Vision Institute"
