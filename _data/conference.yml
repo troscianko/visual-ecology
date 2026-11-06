@@ -6,7 +6,7 @@ name: "Visual Ecology 2027"
 year: 2027
 logo: /assets/logos/visual-ecology-2027.png   # leave blank to show the name as text instead
 dates: "July 7th & 8th 2027"                # free text, e.g. "6–9 July 2027"
-location: "Magdalan College, University of Oxford"                  # short form for the homepage/footer, e.g. "Falmouth, UK"
+location: "Magdalen College, University of Oxford"                  # short form for the homepage/footer, e.g. "Falmouth, UK"
 email: "christian.drerup [at] magd.ox.ac.uk"                     # general enquiries address, shown in the footer
 
 venue:
