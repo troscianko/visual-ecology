@@ -18,7 +18,6 @@ reaction:
 
 > The Visual Ecology conference series organises UK-based annual conferences that attract international leaders in the field, while remaining accessible and welcoming to ECRs and PGRs. The series started as semi-regular CamoCon (camouflage-focused) conferences hosted by the University of Bristol, and the Anti-predator Colouration Symposia hosted by the University of Exeter over a number of years, followed by our joint take-over of ASAB’s 2025 Winter conference. Following this decade of ad-hoc meetings, the Visual Ecology conference series will now move between key labs in the UK every year, with Oxford in 2027 and Swansea in 2028.
 
-> Abstracts for submitted talks are scored blind based on scope, novelty and rigour. They are then ranked and unblinded, and checked for balance in gender, career stage, and geographic coverage, with minor ranking shifts being used to achieve a balance.
 
 ## Oxford 2027
 
